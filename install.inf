@@ -1,0 +1,5 @@
+[info]
+title=Linter for CSS, using csstree
+desc=Linter for CudaLint, adds support for CSS lexer, using csstree, requires Node.js
+type=cudatext-plugin
+subdir=cuda_lint_csstree
